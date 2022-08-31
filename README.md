@@ -1,5 +1,5 @@
 # Interview-Tasks
-Sample of tasks I have completed during job interviews.
+A sample of tasks I have completed during job interviews.
 
 
 ## GTD Mockup
